@@ -24,4 +24,4 @@ cd doctlrv
 python doctlrv.py
 ```
 
-[!] make sure you have git & python (3.10.x) installed
+[!] make sure you have git & python installed
