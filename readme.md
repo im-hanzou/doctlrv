@@ -6,7 +6,7 @@ Before you start..
 sudo apt update
 ```
 ```
-sudo apt update
+sudo apt upgrade
 ```
 ```
 sudo snap install doctl
@@ -24,4 +24,5 @@ cd doctlrv
 python doctlrv.py
 ```
 
-[!] make sure you have git & python installed
+[ ! ] Make sure you have git & python installed
+.
